@@ -13,7 +13,7 @@ assinatura de IPTV: você entra com os dados do seu provedor (Xtream Codes ou li
 1. Na TV, instale o **Downloader** (by AFTVnews) pela loja de apps.
 2. Permita que o Downloader instale apps: *Configurações → Apps → Acesso especial →
    Instalar apps desconhecidos → Downloader* (o caminho muda um pouco entre aparelhos).
-3. Abra o Downloader e digite o código **`CÓDIGO`** no campo de endereço.
+3. Abra o Downloader e digite o código **`8053366`** no campo de endereço.
 4. Confirme a instalação. Depois do TV Player instalado, pode apagar o arquivo baixado.
 
 ### Pelo link direto
