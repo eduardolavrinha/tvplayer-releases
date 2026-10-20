@@ -1,11 +1,11 @@
 {
-  "versionCode": 11,
-  "versionName": "0.1.7-beta.4",
+  "versionCode": 12,
+  "versionName": "0.1.7-beta.5",
   "notas": [
-    "O app agora se atualiza sozinho, sempre com a sua confirmação.",
-    "Configurações → Atualizações: só estáveis ou também versões de teste."
+    "Trocar entre versões estáveis e de teste procura atualização na hora.",
+    "O aviso de instalação explica que, em algumas TVs, o Cancelar já vem selecionado."
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.4/tvplayer.apk",
-  "sha256": "388e0e85d5ba9d48ee4634e3912fa2e1dcdc9244a9f1069ab22046c72c36d90a",
-  "tamanho": 10202650
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.5/tvplayer.apk",
+  "sha256": "e897fbfc0652e6250a630ff76f5f4984202d99ae03bd89c4dfc2f8412be7b353",
+  "tamanho": 10202654
 }
