@@ -1,11 +1,11 @@
 {
-  "versionCode": 12,
-  "versionName": "0.1.7-beta.5",
+  "versionCode": 13,
+  "versionName": "0.1.7-beta.6",
   "notas": [
-    "Trocar entre versões estáveis e de teste procura atualização na hora.",
-    "O aviso de instalação explica que, em algumas TVs, o Cancelar já vem selecionado."
+    "Menos travadas com internet lenta: guarda mais vídeo adiantado e espera um pouco mais antes de voltar.",
+    "Banner de destaque ativado por padrão."
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.5/tvplayer.apk",
-  "sha256": "e897fbfc0652e6250a630ff76f5f4984202d99ae03bd89c4dfc2f8412be7b353",
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.6/tvplayer.apk",
+  "sha256": "8c617cfecbeae25db69e489cfe2f2d3c851211e6a9e36521ad20e7760fc6bec8",
   "tamanho": 10202654
 }
