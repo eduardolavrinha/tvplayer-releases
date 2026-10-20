@@ -1,0 +1,11 @@
+{
+  "versionCode": 11,
+  "versionName": "0.1.7-beta.4",
+  "notas": [
+    "O app agora se atualiza sozinho, sempre com a sua confirmação.",
+    "Configurações → Atualizações: só estáveis ou também versões de teste."
+  ],
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.4/tvplayer.apk",
+  "sha256": "89686ad05a12b7226b016321757d76902940e897e4a74525a994234375db2817",
+  "tamanho": 10202650
+}
