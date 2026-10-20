@@ -1,11 +1,11 @@
 {
-  "versionCode": 15,
-  "versionName": "0.1.7-beta.8",
+  "versionCode": 16,
+  "versionName": "0.1.7-beta.9",
   "notas": [
-    "Menus de seleção (temporadas, pôsteres, intervalo) também na TV e no Fire TV.",
-    "Nome das séries sem o ano repetido."
+    "Menus de seleção também na TV e no Fire TV; nome das séries sem o ano repetido.",
+    "Guia de programação refeito ao abrir se uma atualização for interrompida."
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.8/tvplayer.apk",
-  "sha256": "a2899a11c55b8a55c8121c633b971bb5d253c51899ac068016a935637d957d20",
-  "tamanho": 10202650
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.9/tvplayer.apk",
+  "sha256": "8996da354cce837061a81302feb9c0dd01501419dfe2f80e0dd6c3dbb6267bea",
+  "tamanho": 10202654
 }
