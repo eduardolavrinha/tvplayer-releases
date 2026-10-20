@@ -30,16 +30,22 @@ Esse link sempre aponta para a versão mais recente.
 
 ## Atualizar
 
-Baixe de novo pelo mesmo código ou link e instale por cima: login, catálogo e preferências
-continuam.
+O app avisa sozinho quando sai versão nova (ao abrir e uma vez por dia): escolha
+**Atualizar** e confirme na tela do sistema. Na primeira vez, o Android pede para permitir que
+o TV Player instale apps. Login, catálogo e preferências continuam.
+
+Em *Configurações → Atualizações* dá para escolher entre só versões estáveis ou também as de
+teste (beta), e procurar atualização na hora. Também dá para baixar de novo pelo mesmo código
+ou link e instalar por cima.
 
 ## Privacidade
 
 - Seus dados de acesso ao provedor ficam só no aparelho, cifrados.
 - O app conversa apenas com: o servidor do seu provedor; o TMDB (sinopses, elenco e
   imagens); o OpenSubtitles, só se você cadastrar sua conta; o TheIntroDB e o IntroDB
-  (marcas de abertura e créditos); e fontes públicas de guia de programação (open-epg.com,
-  iptv-epg.org).
+  (marcas de abertura e créditos); fontes públicas de guia de programação (open-epg.com,
+  iptv-epg.org); e este repositório no GitHub, para procurar e baixar versões novas do app
+  (nenhum dado seu vai junto).
 - O app guarda um registro técnico (desempenho e erros) num arquivo no próprio aparelho, para
   diagnóstico. Ele não é enviado para lugar nenhum.
 
