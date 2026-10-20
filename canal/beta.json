@@ -1,11 +1,11 @@
 {
-  "versionCode": 13,
-  "versionName": "0.1.7-beta.6",
+  "versionCode": 14,
+  "versionName": "0.1.7-beta.7",
   "notas": [
     "Menos travadas com internet lenta: guarda mais vídeo adiantado e espera um pouco mais antes de voltar.",
     "Banner de destaque ativado por padrão."
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.6/tvplayer.apk",
-  "sha256": "8c617cfecbeae25db69e489cfe2f2d3c851211e6a9e36521ad20e7760fc6bec8",
-  "tamanho": 10202654
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.7/tvplayer.apk",
+  "sha256": "d015e0affcdc63d296db30b4d2d022340d8470512490397aeb91eed0ebb667f9",
+  "tamanho": 10202650
 }
