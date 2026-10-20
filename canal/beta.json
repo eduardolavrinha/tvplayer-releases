@@ -1,11 +1,11 @@
 {
-  "versionCode": 14,
-  "versionName": "0.1.7-beta.7",
+  "versionCode": 15,
+  "versionName": "0.1.7-beta.8",
   "notas": [
-    "Menos travadas com internet lenta: guarda mais vídeo adiantado e espera um pouco mais antes de voltar.",
-    "Banner de destaque ativado por padrão."
+    "Menus de seleção (temporadas, pôsteres, intervalo) também na TV e no Fire TV.",
+    "Nome das séries sem o ano repetido."
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.7/tvplayer.apk",
-  "sha256": "d015e0affcdc63d296db30b4d2d022340d8470512490397aeb91eed0ebb667f9",
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.8/tvplayer.apk",
+  "sha256": "a2899a11c55b8a55c8121c633b971bb5d253c51899ac068016a935637d957d20",
   "tamanho": 10202650
 }
