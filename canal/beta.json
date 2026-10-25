@@ -1,11 +1,10 @@
 {
-  "versionCode": 16,
-  "versionName": "0.1.7-beta.9",
+  "versionCode": 17,
+  "versionName": "0.1.7-beta.10",
   "notas": [
-    "Menus de seleção também na TV e no Fire TV; nome das séries sem o ano repetido.",
-    "Guia de programação refeito ao abrir se uma atualização for interrompida."
+    "Diagnóstico salvo também em Download/TVPlayer, para análise de travadas e erros."
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.9/tvplayer.apk",
-  "sha256": "8996da354cce837061a81302feb9c0dd01501419dfe2f80e0dd6c3dbb6267bea",
-  "tamanho": 10202654
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.10/tvplayer.apk",
+  "sha256": "aaed3f82ae461866f7b7396f1104748186b8443071e3bd1142baaec37e271efa",
+  "tamanho": 10202650
 }
