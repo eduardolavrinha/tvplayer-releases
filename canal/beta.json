@@ -1,10 +1,12 @@
 {
-  "versionCode": 17,
-  "versionName": "0.1.7-beta.10",
+  "versionCode": 18,
+  "versionName": "0.1.7-beta.11",
   "notas": [
-    "Diagnóstico salvo também em Download/TVPlayer, para análise de travadas e erros."
+    "Ao vivo explica por que o canal não abriu e reconecta sozinho.",
+    "Guia atualizado em horas; catálogo em dias. Login mais simples.",
+    "Sair da conta mantém o que foi baixado; dados separados por conta."
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.10/tvplayer.apk",
-  "sha256": "aaed3f82ae461866f7b7396f1104748186b8443071e3bd1142baaec37e271efa",
-  "tamanho": 10202650
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7-beta.11/tvplayer.apk",
+  "sha256": "e1059aaf5937faaf77eec1f08fec5dcb03b2f69eeef903e80ade2acd63173270",
+  "tamanho": 10219034
 }
