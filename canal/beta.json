@@ -1,14 +1,12 @@
 {
-  "versionCode": 20,
-  "versionName": "0.1.7",
+  "versionCode": 21,
+  "versionName": "0.1.8-beta.1",
   "notas": [
-    "Ao vivo explica por que um canal não abriu e reconecta sozinho",
-    "Atualização separada para canais/guia e catálogo",
-    "Login mais simples",
-    "Sair da conta mantém os dados baixados; marcações separadas por conta",
-    "Primeira atualização pede a permissão antes de instalar"
+    "Diagnóstico automático anônimo (pode desligar em Configurações)",
+    "Código do aparelho em Configurações → Diagnóstico",
+    "App 3× menor e interface mais leve"
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.7/tvplayer.apk",
-  "sha256": "43d8bfad0407e723e4f20d09f53d2a6464a72a0a60d08d9dd872ae972b6458e1",
-  "tamanho": 10219034
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.8-beta.1/tvplayer.apk",
+  "sha256": "6cafb44fd4378048de174a91236417598bd57f7d0c20299ad3620d0deb9fa6ec",
+  "tamanho": 2954245
 }
