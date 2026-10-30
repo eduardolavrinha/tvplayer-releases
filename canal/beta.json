@@ -1,12 +1,11 @@
 {
-  "versionCode": 21,
-  "versionName": "0.1.8-beta.1",
+  "versionCode": 22,
+  "versionName": "0.1.8-beta.2",
   "notas": [
-    "Diagnóstico automático anônimo (pode desligar em Configurações)",
-    "Código do aparelho em Configurações → Diagnóstico",
-    "App 3× menor e interface mais leve"
+    "Ao vivo tenta reconectar por mais tempo quando o canal cai",
+    "Avisa quando o provedor recusa a conta ou a assinatura venceu"
   ],
-  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.8-beta.1/tvplayer.apk",
-  "sha256": "6cafb44fd4378048de174a91236417598bd57f7d0c20299ad3620d0deb9fa6ec",
-  "tamanho": 2954245
+  "url": "https://github.com/eduardolavrinha/tvplayer-releases/releases/download/v0.1.8-beta.2/tvplayer.apk",
+  "sha256": "b72f7e4baad2e4697e7f7d9bbeda2ccbdf8e28644714ba65670437e54cf6587e",
+  "tamanho": 2954249
 }
